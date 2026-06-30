@@ -1,8 +1,8 @@
 public class student {
     private String studentID;
     private String name;
-    private string cgpa;
-    private string programme;
+/*- */    private double cgpa;
+    private String programme;
 
     public void setstudentID(String studentID) {
         this.studentID = studentID;
@@ -12,7 +12,7 @@ public class student {
     }
     public void setcgpa(double cgpa) {
         this.cgpa = cgpa;
-}
+    }
     public void setprogramme(String programme) {
         this.programme = programme;
     }

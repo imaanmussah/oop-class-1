@@ -11,7 +11,4 @@ public class main {
         System.out.println("CGPA: " + s.getcgpa());
         System.out.println("Programme: " + s.getprogramme());
     }
-
-    
-    }
 }
